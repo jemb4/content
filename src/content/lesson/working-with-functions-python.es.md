@@ -20,7 +20,7 @@ Dominar el uso de listas y bucles es una de las 5 habilidades fundamentales para
 
 ## ¿Qué son las Funciones?
 
-Básicamente, una función un conjunto de lineas de código agrupadas para cumplir un objectivo específico, por ejemplo veamos esta función para multiplicar dos números:
+Básicamente, una función es un conjunto de lineas de código agrupadas para cumplir un objetivo específico, por ejemplo veamos esta función para multiplicar dos números:
 
 ```python
 def multiplicar(a,b):
@@ -124,7 +124,7 @@ def multiplicar(a, b):
 
 # este print no funcionará, generará un error, porque myVariable fue 
 # declarado dentro de la función multiplicar, por lo tanto no está disponible fuera de su alcance.
-print(myVariable)
+print(miVariable)
 ```
 
 > :point_up:  Es muy importante recordar que una vez que use la instrucción `return`, la función dejará de ejecutarse, si hay algún código después de esa instrucción, nunca se ejecutará.
@@ -167,7 +167,7 @@ multiplcar(<primer param>,<segundo param>)
 multiplar(3,9)
 ```
 
-Recuerda asignarle a la función cel parámetro que debiese recibir. En nuestro ejemplo, la función multiplicar se declaró pidiendo dos números para multiplicar. J
+Recuerda asignarle a la función el parámetro que debiese recibir. En nuestro ejemplo, la función multiplicar se declaró pidiendo dos números para multiplicar. J
 
 ## Llamando funciones de forma anidada
 
