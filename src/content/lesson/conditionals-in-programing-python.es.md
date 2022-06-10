@@ -153,7 +153,7 @@ Hay que saber qué preguntas hacer. El ejemplo anterior era una condición simpl
 
 ![What ot ware in valentines day](../../assets/images/87f2be86-32c3-4bfc-8db4-dbd0d979e4d3.jpeg)
 
-Si quieres representar este algoritmo en Java, se verá algo así:
+Si quieres representar este algoritmo en Python, se verá algo así:
 
 ```python
 if voy_a_salir:
